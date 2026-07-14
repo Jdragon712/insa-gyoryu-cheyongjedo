@@ -1,6 +1,12 @@
-# Content moved / retired
+# 공무원 인사교류 활성화 및 채용제도 개선
 
-Public hosting for this exercise has been removed.
-Please use the private archive repository or local files instead.
+행정안전부 보도자료 웹페이지 (연습 제출용, 공개)
 
-**Owner action recommended:** Settings → Danger Zone → Change visibility to **Private**, or Delete this repository.
+## 페이지 바로 보기
+
+https://raw.githack.com/Jdragon712/insa-gyoryu-cheyongjedo/main/index.html
+
+## 저장소
+
+- HTML: `index.html`
+- 요구사항: title(인사교류/채용제도), H1, 인사 인센티브·채용제도 개선 섹션, ul 목록, blockquote(윤호중 장관)
