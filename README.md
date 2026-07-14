@@ -1,2 +1,6 @@
-# insa-gyoryu-cheyongjedo
-공무원 인사교류 활성화 및 채용제도 개선 보도자료 웹페이지 (연습)
+# Content moved / retired
+
+Public hosting for this exercise has been removed.
+Please use the private archive repository or local files instead.
+
+**Owner action recommended:** Settings → Danger Zone → Change visibility to **Private**, or Delete this repository.
